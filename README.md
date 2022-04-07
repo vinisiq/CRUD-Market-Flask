@@ -1,5 +1,5 @@
 # CRUD-CS50-Market
- Complet market CRUD - Python with Flask
+Complet market CRUD - Python with Flask
 To use the flask commands you need to use the CMD.
 
 To create your database use on your CMD the commands:
