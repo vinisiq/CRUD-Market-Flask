@@ -1,4 +1,4 @@
-# CRUD-CS50-Market
+# CRUD-Market-Flask
 Complet market CRUD - Python with Flask
 To use the flask commands you need to use the CMD.
 
