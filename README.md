@@ -38,3 +38,12 @@ To specifics query use <name of your class table>.query.filter_by(parameter). Fo
 
 I like use the DB Browser(SQLite) to see my tables, if you want to see the tables that you created just open your DB Browser and click in "Open database" and select your db (in my case, market.db).
 
+# Reajusting tables
+If you need make some changes in more than 1 table, making relationships between them you can make this to give better
+results, on CMD:
+1. pyhton
+2. from market.models import db
+3. db.drop_all()
+4. db.create_all()
+
+>> pip install email_validator
